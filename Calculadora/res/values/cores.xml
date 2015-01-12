@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="corFocusOffBtn1">#242424</color>
+    <color name="corFocusOnBtn1">#2E2E2E</color>
+    <color name="corFocusOffBtn2">#484848</color>
+    <color name="corFocusOnBtn2">#525252</color>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Calculadora</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Configurações</string>
+    <string name="action_history">Histórico</string>
+    <string name="action_clean">Limpar</string>
+    <string name="dialog_title">Número de casas decimais</string>
+    <string name="summary">Informe o número de casas decimais mostradas nos resultados dos cálculos.</string>
+    <string name="title">Número de casas decimais</string>
+
+</resources>

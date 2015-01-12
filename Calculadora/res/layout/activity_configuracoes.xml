@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <EditTextPreference
+        android:inputType="number"
+        android:dialogTitle="@string/dialog_title"
+        android:key="nr_casas_decimais"
+        android:summary="@string/summary"
+        android:title="@string/title" />
+
+</PreferenceScreen>
